@@ -1,2 +1,1 @@
-# git-learning
-To start learning Git
+welcome to my Git hub Repository
